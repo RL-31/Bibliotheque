@@ -1,7 +1,5 @@
 package scenario;
 import domaine.Bibliotheque;
-import domaine.Exemplaire;
-import domaine.Ouvrage;
 
 public class TestBibliotheque {
 
